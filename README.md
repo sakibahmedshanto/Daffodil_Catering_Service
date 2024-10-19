@@ -11,7 +11,7 @@ Daffodil Catering is an Android application developed to make the catering servi
 
 ## Google Play
 
-![App on Google Play](screenshots/googlePlay.jpg)
+![App on Google Play](screenshots/googlePlay.png)
 
 Daffodil Catering is available on the Google Play Store. You can download the app [here](https://play.google.com/store/apps/details?id=com.sakibahmedshanto.daffodilcatering&pcampaignid=web_share).
 
