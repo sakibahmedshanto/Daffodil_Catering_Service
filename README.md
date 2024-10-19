@@ -7,16 +7,17 @@ Daffodil Catering is an Android application developed to make the catering servi
 - [Web Version](#web-version)
 - [Features](#features)
 - [Screenshots](#screenshots)
-- [GIFs](#gifs)
 - [Contact](#contact)
 
 ## Google Play
 
-Daffodil Catering is available on the Google Play Store. You can download the app [here](https://play.google.com/store/apps/details?id=com.example.daffodilcatering).
+![App on Google Play](screenshots/googlePlay.jpg)
+
+Daffodil Catering is available on the Google Play Store. You can download the app [here](https://play.google.com/store/apps/details?id=com.sakibahmedshanto.daffodilcatering&pcampaignid=web_share).
 
 ## Web Version
 
-Daffodil Catering also has a web app version designed for mobile devices. You can access it [here](https://example.com).
+Daffodil Catering also has a web app version designed for mobile devices. You can access it [here](https://daffodilcafe-73d7e.web.app/).
 
 ## Features
 
@@ -35,12 +36,6 @@ Daffodil Catering also has a web app version designed for mobile devices. You ca
 - **Order History**
   - Users can view their past orders, allowing them to keep track of what they have ordered previously and reorder their favorite meals with ease.
 
-## GIFs
-
-Check out these GIFs showcasing the app in action:
-
-![App Demo](gif.gif)
-
 ## Screenshots
 
 Here are some screenshots from the app, grouped to save space:
@@ -48,13 +43,18 @@ Here are some screenshots from the app, grouped to save space:
 ### Onboarding and Authentication
 | Splash Screen | Welcome Screen | Login with Google |
 |---------------|----------------|-------------------|
-| ![Splash Screen](1.jpg) | ![Welcome Screen](2.jpg) | ![Login with Google](3.jpg) |
+| ![Splash Screen](screenshots/splashscreen.jpg) | ![Welcome Screen](screenshots/siginWithGoogle.jpg) | ![Login with Mail](screenshots/signinWithMail.jpg) |
 
 ### Main Features
-| Meal Categories | Order Details | Order History |
+| Home Screen | Order Details | Order History |
 |-----------------|---------------|---------------|
-| ![Meal Categories](4.jpg) | ![Order Details](5.jpg) | ![Order History](6.jpg) |
+| ![Home Screen](screenshots/homescreen.jpg) | ![Order Details](screenshots/orderDetails.jpg) | ![Order History](screenshots/orderHistory.jpg) |
+
+### Extra
+| Drawer | Cart Screen | Order History |
+|-----------------|---------------|---------------|
+| ![drawer](screenshots/drawer.jpg) | ![Cart Screen](screenshots/cart.jpg) | ![Order Confirmation](screenshots/confirmOrder.jpg) |
 
 ## Contact
 
-For any questions or suggestions, please contact [your_email@example.com](mailto:your_email@example.com).
+For any questions or suggestions, please contact [sakibsanto57@gmail.com](mailto:sakibsanto57@gmail.com).
